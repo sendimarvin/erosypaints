@@ -79,7 +79,7 @@
               <nav class="navbar navbar-expand-lg navbar-light p-0">
                 
                 <div class="logo">
-                    <a class="d-block" href="index.html">
+                    <a class="d-block" href="/">
                       <img loading="lazy" src="images/logo.png" alt="Constra">
                        <span class="h2">| Erosy paints </span>
                     </a>
@@ -91,11 +91,11 @@
                 
                 <div id="navbar-collapse" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav ml-auto align-items-center">
-                      <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                      <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
-                      <li class="nav-item"><a class="nav-link" href="services.html">Products</a></li>
-                      <li class="nav-item"><a class="nav-link" href="contact.html">Colours</a></li>
-                      <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+                      <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                      <li class="nav-item"><a class="nav-link" href="about.blade.php">About Us</a></li>
+                      <li class="nav-item"><a class="nav-link" href="services.blade.php">Products</a></li>
+                      <li class="nav-item"><a class="nav-link" href="contact.blade.php">Colours</a></li>
+                      <li class="nav-item"><a class="nav-link" href="contact.blade.php">Contact Us</a></li>
                     </ul>
                 </div>
               </nav>
@@ -121,7 +121,7 @@
               <p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
                 thinking team looking for talent like.</p>
               <p>
-                <a href="projects.html" class="slider btn btn-primary">Our Products</a>
+                <a href="projects.blade.php" class="slider btn btn-primary">Our Products</a>
               </p>
           </div>
         </div>
@@ -137,7 +137,7 @@
                 <h3 class="box-slide-sub-title">Your Choice is Simple</h3>
                 <p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
                     thinking team looking for talent like.</p>
-                <p><a href="about.html" class="slider btn btn-primary" aria-label="about-us">Know Us</a></p>
+                <p><a href="about.blade.php" class="slider btn btn-primary" aria-label="about-us">Know Us</a></p>
               </div>
           </div>
         </div>
@@ -156,7 +156,7 @@
           </div><!-- Col end -->
           <div class="col-md-4 text-center text-md-right mt-3 mt-md-0">
               <!-- <div class="call-to-action-btn">
-                <a class="btn btn-primary" href="contact.html">Request Quote</a>
+                <a class="btn btn-primary" href="contact.blade.php">Request Quote</a>
               </div> -->
           </div><!-- col end -->
         </div><!-- row end -->
@@ -177,13 +177,13 @@
                     <img loading="lazy" src="images/icon-image/service-icon1.png" alt="service-icon" />
                 </div>
                 <div class="ts-service-info">
-                    <h3 class="service-box-title"><a href="service-single.html">Under Coat Paint</a></h3>
+                    <h3 class="service-box-title"><a href="service-single.blade.php">Under Coat Paint</a></h3>
                     <p>Under Coat Paint is uniquely formulated paint based on a crylic copolyner emulsion<br/>
                       -Under Coat Paint is highly bound film<br/>
                       -Excellent flexibility<br/>
                       -Toughness<br/>
                       -Low dust definition properties</p>
-                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                    <a class="learn-more d-inline-block" href="service-single.blade.php" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
                 </div>
               </div>
           </div><!-- Service1 end -->
@@ -199,13 +199,13 @@
                     <img loading="lazy" src="images/icon-image/service-icon2.png" alt="service-icon" />
                 </div>
                 <div class="ts-service-info">
-                    <h3 class="service-box-title"><a href="service-single.html">Weather Guard Paint</a></h3>
+                    <h3 class="service-box-title"><a href="service-single.blade.php">Weather Guard Paint</a></h3>
                     <p>Weather Guard Pant is uniquely formulated paint based on a crylic copolyner emulsion<br/>
                       -Weather Guard Pant is highly bound film<br/>
                       -Excellent flexibility<br/>
                       -Toughness<br/>
                       -Low dust definition properties</p>                    
-                      <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                      <a class="learn-more d-inline-block" href="service-single.blade.php" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
                 </div>
               </div>
           </div><!-- Service2 end -->
@@ -221,13 +221,13 @@
                     <img loading="lazy" src="images/icon-image/service-icon3.png" alt="service-icon" />
                 </div>
                 <div class="ts-service-info">
-                    <h3 class="service-box-title"><a href="service-single.html">Silk Vinyl Paint</a></h3>
+                    <h3 class="service-box-title"><a href="service-single.blade.php">Silk Vinyl Paint</a></h3>
                     <p>Erosy Silk Vinyl Paint is uniquely formulated paint based on a crylic copolyner emulsion<br/>
                       -Erosy Silk Vinyl Paint is highly bound film <br/>
                       -Excellent flexibility<br/>
                       -Toughness<br/>
                       -Low dust definition properties</p>
-                    <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                    <a class="learn-more d-inline-block" href="service-single.blade.php" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
                 </div>
               </div>
           </div><!-- Service3 end -->
@@ -367,7 +367,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Capital Teltway Building</a>
+                    <a href="projects-single.blade.php">Capital Teltway Building</a>
                   </h3>
                   <p class="project-cat">Commercial, Interiors</p>
                 </div>
@@ -384,7 +384,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Ghum Touch Hospital</a>
+                    <a href="projects-single.blade.php">Ghum Touch Hospital</a>
                   </h3>
                   <p class="project-cat">Healthcare</p>
                 </div>
@@ -401,7 +401,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">TNT East Facility</a>
+                    <a href="projects-single.blade.php">TNT East Facility</a>
                   </h3>
                   <p class="project-cat">Government</p>
                 </div>
@@ -418,7 +418,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Kalas Metrorail</a>
+                    <a href="projects-single.blade.php">Kalas Metrorail</a>
                   </h3>
                   <p class="project-cat">Infrastructure</p>
                 </div>
@@ -435,7 +435,7 @@
               <div class="project-item-info">
                 <div class="project-item-info-content">
                   <h3 class="project-item-title">
-                    <a href="projects-single.html">Ancraft Avenue House</a>
+                    <a href="projects-single.blade.php">Ancraft Avenue House</a>
                   </h3>
                   <p class="project-cat">Residential</p>
                 </div>

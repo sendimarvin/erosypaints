@@ -80,7 +80,7 @@
       <div class="logo-area">
           <div class="row align-items-center">
             <div class="logo col-lg-3 text-center text-lg-left mb-3 mb-md-5 mb-lg-0">
-                <a class="d-block" href="index.html">
+                <a class="d-block" href="/">
                   <img loading="lazy" src="images/logo.png" alt="Constra">
                 </a>
             </div><!-- logo end -->
@@ -112,7 +112,7 @@
                     </div>
                   </li>
                   <li class="header-get-a-quote">
-                    <a class="btn btn-primary" href="contact.html">Get A Quote</a>
+                    <a class="btn btn-primary" href="contact.blade.php">Get A Quote</a>
                   </li>
                 </ul><!-- Ul end -->
             </div><!-- header right end -->
@@ -133,11 +133,11 @@
                 
                 <div id="navbar-collapse" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav mr-auto">
-                      <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                      <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
-                      <li class="nav-item"><a class="nav-link" href="services.html">Products</a></li>
-                      <li class="nav-item"><a class="nav-link" href="contact.html">Colours</a></li>
-                      <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+                      <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                      <li class="nav-item"><a class="nav-link" href="about.blade.php">About Us</a></li>
+                      <li class="nav-item"><a class="nav-link" href="services.blade.php">Products</a></li>
+                      <li class="nav-item"><a class="nav-link" href="contact.blade.php">Colours</a></li>
+                      <li class="nav-item"><a class="nav-link" href="contact.blade.php">Contact Us</a></li>
                     </ul>
                 </div>
               </nav>
@@ -198,9 +198,9 @@
                   <img loading="lazy" src="images/icon-image/service-icon1.png" alt="service-icon">
               </div>
               <div class="ts-service-info">
-                  <h3 class="service-box-title"><a href="service-single.html">Zero Harm Everyday</a></h3>
+                  <h3 class="service-box-title"><a href="service-single.blade.php">Zero Harm Everyday</a></h3>
                   <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
-                  <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                  <a class="learn-more d-inline-block" href="service-single.blade.php" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
         </div><!-- Service1 end -->
@@ -216,9 +216,9 @@
                   <img loading="lazy" src="images/icon-image/service-icon2.png" alt="service-icon">
               </div>
               <div class="ts-service-info">
-                  <h3 class="service-box-title"><a href="service-single.html">Virtual Construction</a></h3>
+                  <h3 class="service-box-title"><a href="service-single.blade.php">Virtual Construction</a></h3>
                   <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
-                  <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                  <a class="learn-more d-inline-block" href="service-single.blade.php" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
         </div><!-- Service2 end -->
@@ -234,9 +234,9 @@
                   <img loading="lazy" src="images/icon-image/service-icon3.png" alt="service-icon">
               </div>
               <div class="ts-service-info">
-                  <h3 class="service-box-title"><a href="service-single.html">Build To Last</a></h3>
+                  <h3 class="service-box-title"><a href="service-single.blade.php">Build To Last</a></h3>
                   <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
-                  <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                  <a class="learn-more d-inline-block" href="service-single.blade.php" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
         </div><!-- Service3 end -->
@@ -252,9 +252,9 @@
                   <img loading="lazy" src="images/icon-image/service-icon4.png" alt="service-icon">
               </div>
               <div class="ts-service-info">
-                  <h3 class="service-box-title"><a href="service-single.html">EXTERIOR DESIGN</a></h3>
+                  <h3 class="service-box-title"><a href="service-single.blade.php">EXTERIOR DESIGN</a></h3>
                   <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
-                  <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                  <a class="learn-more d-inline-block" href="service-single.blade.php" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
         </div><!-- Service1 end -->
@@ -270,9 +270,9 @@
                   <img loading="lazy" src="images/icon-image/service-icon5.png" alt="service-icon">
               </div>
               <div class="ts-service-info">
-                  <h3 class="service-box-title"><a href="service-single.html">RENOVATION</a></h3>
+                  <h3 class="service-box-title"><a href="service-single.blade.php">RENOVATION</a></h3>
                   <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
-                  <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                  <a class="learn-more d-inline-block" href="service-single.blade.php" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
         </div><!-- Service2 end -->
@@ -288,9 +288,9 @@
                   <img loading="lazy" src="images/icon-image/service-icon6.png" alt="service-icon">
               </div>
               <div class="ts-service-info">
-                  <h3 class="service-box-title"><a href="service-single.html">SAFETY MANAGEMENT</a></h3>
+                  <h3 class="service-box-title"><a href="service-single.blade.php">SAFETY MANAGEMENT</a></h3>
                   <p>You have ideas, goals, and dreams. We have a culturally diverse, forward thinking team looking for talent like. Lorem ipsum dolor suscipit.</p>
-                  <a class="learn-more d-inline-block" href="service-single.html" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
+                  <a class="learn-more d-inline-block" href="service-single.blade.php" aria-label="service-details"><i class="fa fa-caret-right"></i> Learn more</a>
               </div>
             </div>
         </div><!-- Service3 end -->
@@ -336,11 +336,11 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
             <h3 class="widget-title">Services</h3>
             <ul class="list-arrow">
-              <li><a href="service-single.html">Pre-Construction</a></li>
-              <li><a href="service-single.html">General Contracting</a></li>
-              <li><a href="service-single.html">Construction Management</a></li>
-              <li><a href="service-single.html">Design and Build</a></li>
-              <li><a href="service-single.html">Self-Perform Construction</a></li>
+              <li><a href="service-single.blade.php">Pre-Construction</a></li>
+              <li><a href="service-single.blade.php">General Contracting</a></li>
+              <li><a href="service-single.blade.php">Construction Management</a></li>
+              <li><a href="service-single.blade.php">Design and Build</a></li>
+              <li><a href="service-single.blade.php">Self-Perform Construction</a></li>
             </ul>
           </div><!-- Col end -->
         </div><!-- Row end -->
@@ -361,11 +361,11 @@
           <div class="col-md-6">
             <div class="footer-menu text-center text-md-right">
               <ul class="list-unstyled">
-                <li><a href="about.html">About</a></li>
-                <li><a href="team.html">Our people</a></li>
-                <li><a href="faq.html">Faq</a></li>
-                <li><a href="news-left-sidebar.html">Blog</a></li>
-                <li><a href="pricing.html">Pricing</a></li>
+                <li><a href="about.blade.php">About</a></li>
+                <li><a href="team.blade.php">Our people</a></li>
+                <li><a href="faq.blade.php">Faq</a></li>
+                <li><a href="news-left-sidebar.blade.php">Blog</a></li>
+                <li><a href="pricing.blade.php">Pricing</a></li>
               </ul>
             </div>
           </div>

@@ -80,7 +80,7 @@
       <div class="logo-area">
           <div class="row align-items-center">
             <div class="logo col-lg-3 text-center text-lg-left mb-3 mb-md-5 mb-lg-0">
-                <a class="d-block" href="index.html">
+                <a class="d-block" href="/">
                   <img loading="lazy" src="images/logo.png" alt="Constra">
                 </a>
             </div><!-- logo end -->
@@ -112,7 +112,7 @@
                     </div>
                   </li>
                   <li class="header-get-a-quote">
-                    <a class="btn btn-primary" href="contact.html">Get A Quote</a>
+                    <a class="btn btn-primary" href="contact.blade.php">Get A Quote</a>
                   </li>
                 </ul><!-- Ul end -->
             </div><!-- header right end -->
@@ -133,11 +133,11 @@
                 
                 <div id="navbar-collapse" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav mr-auto">
-                      <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
-                      <li class="nav-item"><a class="nav-link" href="about.html">About Us</a></li>
-                      <li class="nav-item"><a class="nav-link" href="services.html">Products</a></li>
-                      <li class="nav-item"><a class="nav-link" href="contact.html">Colours</a></li>
-                      <li class="nav-item"><a class="nav-link" href="contact.html">Contact Us</a></li>
+                      <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                      <li class="nav-item"><a class="nav-link" href="about.blade.php">About Us</a></li>
+                      <li class="nav-item"><a class="nav-link" href="services.blade.php">Products</a></li>
+                      <li class="nav-item"><a class="nav-link" href="contact.blade.php">Colours</a></li>
+                      <li class="nav-item"><a class="nav-link" href="contact.blade.php">Contact Us</a></li>
                     </ul>
                 </div>
               </nav>

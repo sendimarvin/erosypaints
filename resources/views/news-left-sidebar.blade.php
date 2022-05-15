@@ -80,7 +80,7 @@
       <div class="logo-area">
           <div class="row align-items-center">
             <div class="logo col-lg-3 text-center text-lg-left mb-3 mb-md-5 mb-lg-0">
-                <a class="d-block" href="index.html">
+                <a class="d-block" href="/">
                   <img loading="lazy" src="images/logo.png" alt="Constra">
                 </a>
             </div><!-- logo end -->
@@ -112,7 +112,7 @@
                     </div>
                   </li>
                   <li class="header-get-a-quote">
-                    <a class="btn btn-primary" href="contact.html">Get A Quote</a>
+                    <a class="btn btn-primary" href="contact.blade.php">Get A Quote</a>
                   </li>
                 </ul><!-- Ul end -->
             </div><!-- header right end -->
@@ -136,43 +136,43 @@
                       <li class="nav-item dropdown active">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Home <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li class="active"><a href="index.html">Home One</a></li>
-                            <li><a href="index-2.html">Home Two</a></li>
+                            <li class="active"><a href="/">Home One</a></li>
+                            <li><a href="index-2.blade.php">Home Two</a></li>
                           </ul>
                       </li>
 
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Company <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="team.html">Our People</a></li>
-                            <li><a href="testimonials.html">Testimonials</a></li>
-                            <li><a href="faq.html">Faq</a></li>
-                            <li><a href="pricing.html">Pricing</a></li>
+                            <li><a href="about.blade.php">About Us</a></li>
+                            <li><a href="team.blade.php">Our People</a></li>
+                            <li><a href="testimonials.blade.php">Testimonials</a></li>
+                            <li><a href="faq.blade.php">Faq</a></li>
+                            <li><a href="pricing.blade.php">Pricing</a></li>
                           </ul>
                       </li>
               
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Projects <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="projects.html">Projects All</a></li>
-                            <li><a href="projects-single.html">Projects Single</a></li>
+                            <li><a href="projects.blade.php">Projects All</a></li>
+                            <li><a href="projects-single.blade.php">Projects Single</a></li>
                           </ul>
                       </li>
               
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Services <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="services.html">Services All</a></li>
-                            <li><a href="service-single.html">Services Single</a></li>
+                            <li><a href="services.blade.php">Services All</a></li>
+                            <li><a href="service-single.blade.php">Services Single</a></li>
                           </ul>
                       </li>
               
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Features <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="typography.html">Typography</a></li>
-                            <li><a href="404.html">404</a></li>
+                            <li><a href="typography.blade.php">Typography</a></li>
+                            <li><a href="404.blade.php">404</a></li>
                             <li class="dropdown-submenu">
                                 <a href="#!" class="dropdown-toggle" data-toggle="dropdown">Parent Menu</a>
                                 <ul class="dropdown-menu">
@@ -187,13 +187,13 @@
                       <li class="nav-item dropdown">
                           <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">News <i class="fa fa-angle-down"></i></a>
                           <ul class="dropdown-menu" role="menu">
-                            <li><a href="news-left-sidebar.html">News Left Sidebar</a></li>
-                            <li><a href="news-right-sidebar.html">News Right Sidebar</a></li>
-                            <li><a href="news-single.html">News Single</a></li>
+                            <li><a href="news-left-sidebar.blade.php">News Left Sidebar</a></li>
+                            <li><a href="news-right-sidebar.blade.php">News Right Sidebar</a></li>
+                            <li><a href="news-single.blade.php">News Single</a></li>
                           </ul>
                       </li>
               
-                      <li class="nav-item"><a class="nav-link" href="contact.html">Contact</a></li>
+                      <li class="nav-item"><a class="nav-link" href="contact.blade.php">Contact</a></li>
                     </ul>
                 </div>
               </nav>
@@ -348,7 +348,7 @@
                     class="comments-link">Comments</a></span>
               </div>
               <h2 class="entry-title">
-                <a href="news-single.html">We Just Completes $17.6 million Medical Clinic in Mid-Missouri</a>
+                <a href="news-single.blade.php">We Just Completes $17.6 million Medical Clinic in Mid-Missouri</a>
               </h2>
             </div><!-- header end -->
 
@@ -360,7 +360,7 @@
             </div>
 
             <div class="post-footer">
-              <a href="news-single.html" class="btn btn-primary">Continue Reading</a>
+              <a href="news-single.blade.php" class="btn btn-primary">Continue Reading</a>
             </div>
 
           </div><!-- post-body end -->
@@ -388,7 +388,7 @@
                     class="comments-link">Comments</a></span>
               </div>
               <h2 class="entry-title">
-                <a href="news-single.html">Thandler Airport Water Reclamation Facility Expansion Project Named</a>
+                <a href="news-single.blade.php">Thandler Airport Water Reclamation Facility Expansion Project Named</a>
               </h2>
             </div><!-- header end -->
 
@@ -400,7 +400,7 @@
             </div>
 
             <div class="post-footer">
-              <a href="news-single.html" class="btn btn-primary">Continue Reading</a>
+              <a href="news-single.blade.php" class="btn btn-primary">Continue Reading</a>
             </div>
 
           </div><!-- post-body end -->
@@ -425,7 +425,7 @@
                     class="comments-link">Comments</a></span>
               </div>
               <h2 class="entry-title">
-                <a href="news-single.html">Silicon Bench and Cornike Begin Construction of Large-Scale Solar Facilities
+                <a href="news-single.blade.php">Silicon Bench and Cornike Begin Construction of Large-Scale Solar Facilities
                   for Trade</a>
               </h2>
             </div><!-- header end -->
@@ -438,7 +438,7 @@
             </div>
 
             <div class="post-footer">
-              <a href="news-single.html" class="btn btn-primary">Continue Reading</a>
+              <a href="news-single.blade.php" class="btn btn-primary">Continue Reading</a>
             </div>
 
           </div><!-- post-body end -->
@@ -497,11 +497,11 @@
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0 footer-widget">
             <h3 class="widget-title">Services</h3>
             <ul class="list-arrow">
-              <li><a href="service-single.html">Pre-Construction</a></li>
-              <li><a href="service-single.html">General Contracting</a></li>
-              <li><a href="service-single.html">Construction Management</a></li>
-              <li><a href="service-single.html">Design and Build</a></li>
-              <li><a href="service-single.html">Self-Perform Construction</a></li>
+              <li><a href="service-single.blade.php">Pre-Construction</a></li>
+              <li><a href="service-single.blade.php">General Contracting</a></li>
+              <li><a href="service-single.blade.php">Construction Management</a></li>
+              <li><a href="service-single.blade.php">Design and Build</a></li>
+              <li><a href="service-single.blade.php">Self-Perform Construction</a></li>
             </ul>
           </div><!-- Col end -->
         </div><!-- Row end -->
@@ -522,11 +522,11 @@
           <div class="col-md-6">
             <div class="footer-menu text-center text-md-right">
               <ul class="list-unstyled">
-                <li><a href="about.html">About</a></li>
-                <li><a href="team.html">Our people</a></li>
-                <li><a href="faq.html">Faq</a></li>
-                <li><a href="news-left-sidebar.html">Blog</a></li>
-                <li><a href="pricing.html">Pricing</a></li>
+                <li><a href="about.blade.php">About</a></li>
+                <li><a href="team.blade.php">Our people</a></li>
+                <li><a href="faq.blade.php">Faq</a></li>
+                <li><a href="news-left-sidebar.blade.php">Blog</a></li>
+                <li><a href="pricing.blade.php">Pricing</a></li>
               </ul>
             </div>
           </div>
