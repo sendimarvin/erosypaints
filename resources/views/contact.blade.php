@@ -112,7 +112,7 @@
                     </div>
                   </li>
                   <li class="header-get-a-quote">
-                    <a class="btn btn-primary" href="contact.blade.php">Get A Quote</a>
+                    <a class="btn btn-primary" href="/contact">Get A Quote</a>
                   </li>
                 </ul><!-- Ul end -->
             </div><!-- header right end -->
@@ -134,10 +134,10 @@
                 <div id="navbar-collapse" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav mr-auto">
                       <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-                      <li class="nav-item"><a class="nav-link" href="about.blade.php">About Us</a></li>
-                      <li class="nav-item"><a class="nav-link" href="services.blade.php">Products</a></li>
-                      <li class="nav-item"><a class="nav-link" href="contact.blade.php">Colours</a></li>
-                      <li class="nav-item"><a class="nav-link" href="contact.blade.php">Contact Us</a></li>
+                      <li class="nav-item"><a class="nav-link" href="/about">About Us</a></li>
+                      <li class="nav-item"><a class="nav-link" href="/services">Products</a></li>
+                      <li class="nav-item"><a class="nav-link" href="/contact">Colours</a></li>
+                      <li class="nav-item"><a class="nav-link" href="/contact">Contact Us</a></li>
                     </ul>
                 </div>
               </nav>
@@ -238,7 +238,8 @@
 
     <div class="google-map">
       <!-- 0.7182361708757238, 32.5301895310645 -->
-      <div id="map" class="map" data-latitude="0.7182361708757238" data-longitude="32.5301895310645" data-marker="images/marker.png" data-marker-name="Erosypaints"></div>
+      <!-- <div id="map" class="map" data-latitude="0.7182361708757238" data-longitude="32.5301895310645" data-marker="images/marker.png" data-marker-name="Erosypaints"></div> -->
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7979.010434123251!2d32.52632713412487!3d0.7178070508328069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177c5d3cc107089b%3A0xa0658deea722720f!2sWobulenzi%20trading%20Centre!5e0!3m2!1sen!2sug!4v1653148470036!5m2!1sen!2sug" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
 
     <div class="gap-40"></div>
@@ -248,7 +249,7 @@
         <h3 class="column-title">We love to hear</h3>
         <!-- contact form works with formspree.io  -->
         <!-- contact form activation doc: https://docs.themefisher.com/constra/contact-form/ -->
-        <form id="contact-form" action="#" method="post" role="form">
+        <form id="contact-form" action="/sendemail" method="post" role="form">
           <div class="error-container"></div>
           <div class="row">
             <div class="col-md-4">
@@ -353,9 +354,9 @@
 
 
   <!-- Google Map API Key-->
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU" defer></script>
+  <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU" defer></script> -->
   <!-- Google Map Plugin-->
-  <script src="plugins/google-map/map.js" defer></script>
+  <!-- <script src="plugins/google-map/map.js" defer></script> -->
 
   <!-- Template custom -->
   <script src="js/script.js"></script>

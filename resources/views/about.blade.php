@@ -106,7 +106,7 @@
                   <li class="last">
                     <div class="info-box last">
                       <div class="info-box-content">
-                          <p class="info-box-title">Global Certificate</p>
+                          <p class="info-box-title">UNBS Certified</p>
                           <p class="info-box-subtitle">ISO 9001:2017</p>
                       </div>
                     </div>
@@ -189,9 +189,9 @@
     <div class="row">
         <div class="col-lg-6">
           <h3 class="column-title">Who We Are</h3>
-          <p>when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.</p>
-          <blockquote><p>Semporibus autem quibusdam et aut officiis debitis aut rerum est aut optio cumque nihil necessitatibus autemn ec tincidunt nunc posuere ut</p></blockquote>
-          <p>He lay on his armour-like  back, and if he lifted. ultrices ultrices sapien, nec tincidunt nunc posuere ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn’t anything embarrassing.</p>
+          <p>Erosypaints has been giving quality paints and stains to property holders and experts alike for well more than 4 years. </p>
+          <blockquote><p>We can enable you to work greener as well, by offering can reusing and increasingly reasonable items, for example, the most recent water-based paints.</p></blockquote>
+          <p>Erosypaints Paints items are promptly accessible the country over from a system of in excess of 2,000 areas including autonomous merchants and friends possessed stores, guaranteeing satisfactory inventories and reliable administration across the nation.</p>
 
         </div><!-- Col end -->
 
@@ -223,7 +223,7 @@
                 <div class="container">
                     <div class="box-slider-content">
                       <div class="box-slider-text">
-                          <h2 class="box-slide-title">Performance</h2>
+                          <h2 class="box-slide-title">Deliver</h2>
                       </div>    
                     </div>
                 </div>

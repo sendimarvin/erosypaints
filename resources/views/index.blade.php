@@ -116,7 +116,7 @@
     <div class="container">
         <div class="box-slider-content">
           <div class="box-slider-text">
-              <h2 class="box-slide-title">17 Years Of Excellence In</h2>
+              <h2 class="box-slide-title">5 Years Of Excellence In</h2>
               <h3 class="box-slide-sub-title">Painting Industry</h3>
               <p class="box-slide-description">You have ideas, goals, and dreams. We have a culturally diverse, forward
                 thinking team looking for talent like.</p>
