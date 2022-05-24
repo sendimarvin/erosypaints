@@ -163,6 +163,17 @@
   <!--/ Navigation end -->
 </header>
 <!--/ Header end -->
+
+
+
+@if(isset($status) && $status == 1)
+<script>
+  alert("email has been sent successfully")
+</script>
+@endif
+
+
+
 <div id="banner-area" class="banner-area" style="background-image:url(images/banner/banner1.jpg)">
   <div class="banner-text">
     <div class="container">
@@ -183,6 +194,24 @@
     </div><!-- Container end -->
   </div><!-- Banner text end -->
 </div><!-- Banner area end --> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <section id="main-container" class="main-container">
   <div class="container">
@@ -250,6 +279,7 @@
         <!-- contact form works with formspree.io  -->
         <!-- contact form activation doc: https://docs.themefisher.com/constra/contact-form/ -->
         <form id="contact-form" action="/sendemail" method="post" role="form">
+        {{ csrf_field() }}
           <div class="error-container"></div>
           <div class="row">
             <div class="col-md-4">
@@ -335,7 +365,6 @@
   </div><!-- Footer main end -->
 
 </footer><!-- Footer end -->
-
 
   <!-- Javascript Files
   ================================================== -->

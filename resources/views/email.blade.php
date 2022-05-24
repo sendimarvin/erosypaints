@@ -1,0 +1,5 @@
+{!! $body !!}
+
+Regards,
+{!! $name !!}
+{!! $email !!}
