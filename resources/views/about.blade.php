@@ -273,6 +273,26 @@
               <div class="item">
                 <div class="ts-team-wrapper">
                     <div class="team-img-wrapper">
+                      <img loading="lazy" class="w-100" src="images/team/team6.jpg" alt="team-img">
+                    </div>
+                    <div class="ts-team-content">
+                      <h3 class="ts-name">Nakalema Harriet</h3>
+                      <p class="ts-designation">Director</p>
+                      <p class="ts-description">Director</p>
+                      <div class="team-social-icons">
+                          <a target="_blank" href="#"><i class="fab fa-facebook-f"></i></a>
+                          <a target="_blank" href="#"><i class="fab fa-twitter"></i></a>
+                          <a target="_blank" href="#"><i class="fab fa-google-plus"></i></a>
+                          <a target="_blank" href="#"><i class="fab fa-linkedin"></i></a>
+                      </div><!--/ social-icons-->
+                    </div>
+                </div><!--/ Team wrapper end -->
+              </div><!-- Team 1 end -->
+
+
+              <div class="item">
+                <div class="ts-team-wrapper">
+                    <div class="team-img-wrapper">
                       <img loading="lazy" class="w-100" src="images/team/team3.jpg" alt="team-img">
                     </div>
                     <div class="ts-team-content">
